@@ -1,0 +1,11 @@
+body{
+    background-color: #002c5b;
+}
+
+select {
+    text-align: left;
+    text-align-last: left;
+  }
+  option {
+    text-align: left;
+  }
